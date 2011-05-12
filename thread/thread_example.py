@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Author:  samuelololol
+# Email:   samuelololol at google mail dot company
+# Website: https://github.com/samuelololol/pythonapps/tree/master/thread
 import threading
 import Queue
 
